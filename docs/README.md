@@ -1,1 +1,3 @@
-# Hello From Vuepress on Now 2.0!
+# Welcome to this Vuepress site.
+
+## This site is deployed using Zeit Now 2.0.
